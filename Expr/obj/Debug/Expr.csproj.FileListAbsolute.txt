@@ -1,0 +1,6 @@
+E:\C#Programs\Matrix2D\Expr\bin\Debug\Expr.exe.config
+E:\C#Programs\Matrix2D\Expr\bin\Debug\Expr.exe
+E:\C#Programs\Matrix2D\Expr\bin\Debug\Expr.pdb
+E:\C#Programs\Matrix2D\Expr\obj\Debug\Expr.csprojResolveAssemblyReference.cache
+E:\C#Programs\Matrix2D\Expr\obj\Debug\Expr.exe
+E:\C#Programs\Matrix2D\Expr\obj\Debug\Expr.pdb
