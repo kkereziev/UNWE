@@ -1,0 +1,5 @@
+C:\Users\inf2056_usr\Desktop\Exercise 2\Upr2\Zad1\bin\Debug\Zad1.exe.config
+C:\Users\inf2056_usr\Desktop\Exercise 2\Upr2\Zad1\bin\Debug\Zad1.exe
+C:\Users\inf2056_usr\Desktop\Exercise 2\Upr2\Zad1\bin\Debug\Zad1.pdb
+C:\Users\inf2056_usr\Desktop\Exercise 2\Upr2\Zad1\obj\Debug\Zad1.exe
+C:\Users\inf2056_usr\Desktop\Exercise 2\Upr2\Zad1\obj\Debug\Zad1.pdb
