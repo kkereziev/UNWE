@@ -1,0 +1,6 @@
+E:\C#Programs\Matrix2D\Zad6\bin\Debug\Zad6.exe.config
+E:\C#Programs\Matrix2D\Zad6\bin\Debug\Zad6.exe
+E:\C#Programs\Matrix2D\Zad6\bin\Debug\Zad6.pdb
+E:\C#Programs\Matrix2D\Zad6\obj\Debug\Zad6.csprojResolveAssemblyReference.cache
+E:\C#Programs\Matrix2D\Zad6\obj\Debug\Zad6.exe
+E:\C#Programs\Matrix2D\Zad6\obj\Debug\Zad6.pdb
