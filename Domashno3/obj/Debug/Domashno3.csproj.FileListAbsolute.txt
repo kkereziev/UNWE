@@ -1,0 +1,6 @@
+E:\C#Programs\Matrix2D\Domashno3\bin\Debug\Domashno3.exe.config
+E:\C#Programs\Matrix2D\Domashno3\bin\Debug\Domashno3.exe
+E:\C#Programs\Matrix2D\Domashno3\bin\Debug\Domashno3.pdb
+E:\C#Programs\Matrix2D\Domashno3\obj\Debug\Domashno3.csprojResolveAssemblyReference.cache
+E:\C#Programs\Matrix2D\Domashno3\obj\Debug\Domashno3.exe
+E:\C#Programs\Matrix2D\Domashno3\obj\Debug\Domashno3.pdb
