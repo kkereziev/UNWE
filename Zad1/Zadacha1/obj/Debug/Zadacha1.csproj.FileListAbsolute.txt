@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Homework1\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\Users\DELL\source\repos\Homework1\Zadacha1\bin\Debug\Zadacha1.exe
+C:\Users\DELL\source\repos\Homework1\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\Users\DELL\source\repos\Homework1\Zadacha1\obj\Debug\Zadacha1.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Homework1\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Homework1\Zadacha1\obj\Debug\Zadacha1.exe
+C:\Users\DELL\source\repos\Homework1\Zadacha1\obj\Debug\Zadacha1.pdb
