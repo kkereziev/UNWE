@@ -1,0 +1,6 @@
+E:\C#Programs\Matrix2D\EGN\bin\Debug\EGN.exe.config
+E:\C#Programs\Matrix2D\EGN\bin\Debug\EGN.exe
+E:\C#Programs\Matrix2D\EGN\bin\Debug\EGN.pdb
+E:\C#Programs\Matrix2D\EGN\obj\Debug\EGN.exe
+E:\C#Programs\Matrix2D\EGN\obj\Debug\EGN.pdb
+E:\C#Programs\Matrix2D\EGN\obj\Debug\EGN.csprojResolveAssemblyReference.cache
