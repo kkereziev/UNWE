@@ -1,0 +1,81 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Homework3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Въведете вашето ЕГН: ");
+            string egn = Console.ReadLine();
+            int year = Convert.ToInt32(egn.Substring(0, 2));
+            int day = Convert.ToInt32(egn.Substring(4, 2));
+            int month = Convert.ToInt32(egn.Substring(2, 2));
+            int pol = Convert.ToInt32(egn.Substring(8, 1));
+            int controlNumber = Convert.ToInt32(egn.Substring(9, 1));
+            if (month >= 1 && month <= 12)
+            {
+                year = year + 1900;
+            }
+            else if (month >= 21 && month <= 32)
+            {
+                year = year + 1800;
+                month = month - 20;
+              
+            }
+            else if (month >= 41 && month <= 52)
+            {
+                year = year + 2000;
+                month = month - 40;
+                
+            }
+            int ageD = DateTime.Now.Day - day;
+            int ageM = DateTime.Now.Month - month;
+            int age = DateTime.Now.Year - year;
+            if (month > DateTime.Now.Month || (month == DateTime.Now.Month && day > DateTime.Now.Day))
+            {
+                age--;
+                ageM = 12 - month + DateTime.Now.Month;
+            }
+            if (ageD < 0)
+            {
+                ageM--;
+                var t = DateTime.Now - new DateTime(DateTime.Now.Year, DateTime.Now.Month, day).AddMonths(-1);
+                ageD = t.Days;
+            }
+            if (pol% 2 == 0)
+            {
+                Console.WriteLine("Човекът с това ЕГН е мъж");
+            }
+            else
+            {
+                Console.WriteLine("Човекът с това ЕГН е жена");
+            }
+            int[] m = new int[] { 2, 4, 8, 5, 10, 9, 7, 3, 6 };
+            int sum = 0;
+            for (int i = 0; i < m.Length; i++)
+            {
+                sum += Convert.ToInt32(egn.Substring(i, 1)) * m[i];
+            }
+            int s = sum % 11;
+            if (s >= 10)
+            {
+                s = 0;
+            }
+            if (s != controlNumber)
+            {
+                Console.WriteLine("Грешно ЕГН");
+            }
+            else
+            {
+                Console.WriteLine(age + " години , " + ageM + " месеца , " + ageD + " дни ," + " контролна цифра " + s);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
