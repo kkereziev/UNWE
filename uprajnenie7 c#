@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace Upajnenie7
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            StreamWriter sw = new StreamWriter(@"C:\Users\inf2056_usr\Desktop\Example.txt");
+            using (sw)
+            {
+                Console.WriteLine("Press any key to begin and Esc to stop");
+                Console.ReadKey(true);
+
+                while (Console.ReadKey(true).Key != ConsoleKey.Escape)
+                {
+                    sw.WriteLine(Console.ReadLine());
+                }
+            }
+
+            sw.Close();
+
+            StreamReader sr = new StreamReader(@"C:\Users\inf2056_usr\Desktop\Example.txt");
+            using (sr)
+            {
+                Console.WriteLine("File Content:");
+                Console.WriteLine(sr.ReadToEnd());
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
