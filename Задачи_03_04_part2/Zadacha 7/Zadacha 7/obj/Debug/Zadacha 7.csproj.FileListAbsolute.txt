@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\III КУРС\C# Основи на разработване на приложни програмни програми сем2\Zadacha 7\Zadacha 7\bin\Debug\Zadacha 7.exe.config
+C:\Users\Admin\Desktop\III КУРС\C# Основи на разработване на приложни програмни програми сем2\Zadacha 7\Zadacha 7\bin\Debug\Zadacha 7.exe
+C:\Users\Admin\Desktop\III КУРС\C# Основи на разработване на приложни програмни програми сем2\Zadacha 7\Zadacha 7\bin\Debug\Zadacha 7.pdb
+C:\Users\Admin\Desktop\III КУРС\C# Основи на разработване на приложни програмни програми сем2\Zadacha 7\Zadacha 7\obj\Debug\Zadacha 7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\III КУРС\C# Основи на разработване на приложни програмни програми сем2\Zadacha 7\Zadacha 7\obj\Debug\Zadacha 7.exe
+C:\Users\Admin\Desktop\III КУРС\C# Основи на разработване на приложни програмни програми сем2\Zadacha 7\Zadacha 7\obj\Debug\Zadacha 7.pdb
