@@ -1,0 +1,13 @@
+C:\Users\admin080218\Desktop\C#Programs\UNWEZad3\Zad2\bin\Debug\Zad2.exe.config
+C:\Users\admin080218\Desktop\C#Programs\UNWEZad3\Zad2\bin\Debug\Zad2.exe
+C:\Users\admin080218\Desktop\C#Programs\UNWEZad3\Zad2\bin\Debug\Zad2.pdb
+C:\Users\admin080218\Desktop\C#Programs\UNWEZad3\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
+C:\Users\admin080218\Desktop\C#Programs\UNWEZad3\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+C:\Users\admin080218\Desktop\C#Programs\UNWEZad3\Zad2\obj\Debug\Zad2.exe
+C:\Users\admin080218\Desktop\C#Programs\UNWEZad3\Zad2\obj\Debug\Zad2.pdb
+C:\Users\inf2056_usr\Desktop\New folder\UNWEZad3\Zad2\bin\Debug\Zad2.exe.config
+C:\Users\inf2056_usr\Desktop\New folder\UNWEZad3\Zad2\bin\Debug\Zad2.exe
+C:\Users\inf2056_usr\Desktop\New folder\UNWEZad3\Zad2\bin\Debug\Zad2.pdb
+C:\Users\inf2056_usr\Desktop\New folder\UNWEZad3\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
+C:\Users\inf2056_usr\Desktop\New folder\UNWEZad3\Zad2\obj\Debug\Zad2.exe
+C:\Users\inf2056_usr\Desktop\New folder\UNWEZad3\Zad2\obj\Debug\Zad2.pdb
